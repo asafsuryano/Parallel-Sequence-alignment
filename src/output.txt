@@ -1,0 +1,4 @@
+for seq2 number 0 the highest alignment with offset 363 and hyphen location 85
+for seq2 number 1 the highest alignment with offset 126 and hyphen location 41
+for seq2 number 2 the highest alignment with offset 855 and hyphen location 51
+for seq2 number 3 the highest alignment with offset 975 and hyphen location 245
